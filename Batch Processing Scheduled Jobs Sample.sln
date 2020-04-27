@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batch Processing Scheduled Jobs Sample", "Batch Processing Scheduled Jobs Sample\Batch Processing Scheduled Jobs Sample.csproj", "{0A009264-EFC7-4DD7-BCCF-55333FCB38BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Tasks.Scheduling.CronJobs", "Core.Tasks.Scheduling.CronJobs\Core.Tasks.Scheduling.CronJobs.csproj", "{E23CA3BF-E8FD-4170-88EC-C43D6248BD7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A009264-EFC7-4DD7-BCCF-55333FCB38BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A009264-EFC7-4DD7-BCCF-55333FCB38BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A009264-EFC7-4DD7-BCCF-55333FCB38BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A009264-EFC7-4DD7-BCCF-55333FCB38BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E23CA3BF-E8FD-4170-88EC-C43D6248BD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23CA3BF-E8FD-4170-88EC-C43D6248BD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23CA3BF-E8FD-4170-88EC-C43D6248BD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23CA3BF-E8FD-4170-88EC-C43D6248BD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D76AAC5-363E-4182-B2AE-295503DB58FF}
+	EndGlobalSection
+EndGlobal
